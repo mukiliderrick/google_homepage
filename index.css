@@ -1,0 +1,76 @@
+
+.toplinks{
+    display: block;
+    background-color:transparent;
+    text-align: right;
+    
+}
+.topIcons{
+    color: black;
+}
+
+.google{
+    display: flex;
+    justify-content: center;
+}
+.searchBox{
+    background-color: transparent;
+    border-radius: 25px;
+    text-align: left;
+    display: block;
+    margin: 0 auto;
+    height: 34px;
+    width: 70%;
+    border-color:rgb(204, 203, 203);
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin: 10;
+}
+li{
+    display: inline;
+}
+.input{
+    text-align: center;
+    border-radius: 10px;
+    border-color: transparent;
+}
+#down{
+    position: fixed;
+    bottom: 10;
+    width: 100%;
+
+}
+.footer{
+    background-color: rgb(197, 197, 197);
+    color: rgb(46, 45, 45);
+    display: block;
+    justify-content: baseline;
+    
+}
+.kenya{
+    border-bottom: 1px solid rgb(80, 79, 79);
+    display: flex;
+    margin-left: 20;
+    
+}
+.kenya h3{
+    font-size: 20px;
+}
+.Carbon h3{
+    font-size: 15px;
+    text-align: center;
+}
+
+.footerLinks{
+    display: flex;
+    margin: 10px;
+}
+ul.second{
+    margin-left: 400px;
+    
+}
+li a{
+    color: black;
+}
